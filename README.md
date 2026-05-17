@@ -3,7 +3,7 @@
 🇬🇧 **English Version**
 
 #### Take a look on the chatroom here:  
-[https://weberi.github.io/kic_chatroom.github.io](https://weberi.github.io/kic_chatroom.github.io)
+https://bookish-succotash-gxq5gq475rvqfp9p-5005.app.github.dev
 
 
 
@@ -21,9 +21,7 @@
 🇩🇪 **Deutsche Version**
 
 #### Schau dir den Chatroom hier an:  
-[https://weberi.github.io/kic_chatroom.github.io](https://weberi.github.io/kic_chatroom.github.io)
-
-https://scaling-orbit-5vq4wqgx4j9wh7g5g-5005.app.github.dev/
+https://bookish-succotash-gxq5gq475rvqfp9p-5005.app.github.dev
 
 #### Möchtest du deinen eigenen Chatroom einrichten? So geht's:
 1. Forke dieses Repository (dadurch erhältst du eine Kopie des Projekts in deinem GitHub-Konto).
