@@ -3,7 +3,7 @@
 🇬🇧 **English Version**
 
 #### Take a look on the chatroom here:  
-https://bookish-succotash-gxq5gq475rvqfp9p-5005.app.github.dev
+https://bookish-succotash-gxq5gq475rvqfp9p-5005.app.github.dev/
 
 
 
