@@ -3,9 +3,7 @@
 🇬🇧 **English Version**
 
 #### Take a look on the chatroom here:  
-https://bookish-succotash-gxq5gq475rvqfp9p-5005.app.github.dev/
-
-https://127.0.0.1:1880
+https://verbose-space-enigma-jr54x5jq49qvcqgw7-4000.app.github.dev/
 
 
 
@@ -23,7 +21,7 @@ https://127.0.0.1:1880
 🇩🇪 **Deutsche Version**
 
 #### Schau dir den Chatroom hier an:  
-https://bookish-succotash-gxq5gq475rvqfp9p-5005.app.github.dev
+https://verbose-space-enigma-jr54x5jq49qvcqgw7-4000.app.github.dev/
 
 #### Möchtest du deinen eigenen Chatroom einrichten? So geht's:
 1. Forke dieses Repository (dadurch erhältst du eine Kopie des Projekts in deinem GitHub-Konto).
