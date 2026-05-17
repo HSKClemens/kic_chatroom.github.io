@@ -5,7 +5,6 @@
 #### Take a look on the chatroom here:  
 [https://weberi.github.io/kic_chatroom.github.io](https://weberi.github.io/kic_chatroom.github.io)
 
-https://scaling-orbit-5vq4wqgx4j9wh7g5g-5005.app.github.dev/
 
 
 #### To create your own chatroom:
